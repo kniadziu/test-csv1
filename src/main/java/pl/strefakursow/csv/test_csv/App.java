@@ -20,7 +20,6 @@ import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 
 /**
- * Hello world!
  *
  * Zadanie rekrutacyjne:
  * 
@@ -44,10 +43,7 @@ import org.apache.commons.csv.CSVRecord;
  * 
  * Zapisz wyniki programu do pliku results.txt
  * 
- * Plik results.txt wyślij mi na maila michal@akademiakodu.pl
- * 
- * Plik tylko klasę główną main możesz zamieścić na serwisie github bądź
- * pastebin i wysłać na maila.
+ * .
  */
 public class App {
 	public static void main(String[] args) throws FileNotFoundException {
