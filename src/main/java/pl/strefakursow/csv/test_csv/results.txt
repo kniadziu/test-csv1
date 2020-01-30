@@ -1,0 +1,57 @@
+More happy countries than Poland:
+----------------------------------
+1  Finland
+2  Denmark
+3  Norway
+4  Iceland
+5  Netherlands
+6  Switzerland
+7  Sweden
+8  New Zealand
+9  Canada
+10  Austria
+11  Australia
+12  Costa Rica
+13  Israel
+14  Luxembourg
+15  United Kingdom
+16  Ireland
+17  Germany
+18  Belgium
+19  United States
+20  Czech Republic
+21  United Arab Emirates
+22  Malta
+23  Mexico
+24  France
+25  Taiwan
+26  Chile
+27  Guatemala
+28  Saudi Arabia
+29  Qatar
+30  Spain
+31  Panama
+32  Brazil
+33  Uruguay
+34  Singapore
+35  El Salvador
+36  Italy
+37  Bahrain
+38  Slovakia
+39  Trinidad and Tobago
+
+Top 5 freedom countries:
+-------------------------
+1  Uzbekistan
+2  Cambodia
+3  Norway
+4  United Arab Emirates
+5  Finland
+
+Top 5 countries, where is the lowest corruption:
+-------------------------
+1  Singapore
+2  Rwanda
+3  Denmark
+4  Finland
+5  New Zealand
